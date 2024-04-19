@@ -12,6 +12,6 @@ setup(
     long_description_content_type='text/markdown',
     author='Harper Reed',
     author_email='harper@modest.com',
-    url='https://github.com/yourusername/yourrepository',
+    url='https://github.com/sakura-mac/mlx_clip',
     install_requires=required,
 )
